@@ -1,0 +1,9 @@
+{
+	"id": "core_account",
+	"contextPath": "account",
+	"maven": {
+		"groupId": "com.gearsofleo.platform",
+		"artifactId": "platform-core-account-service-boot",
+		"version": "3.0.6"
+	}
+}
